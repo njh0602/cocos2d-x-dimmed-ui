@@ -17,10 +17,6 @@ the file to a convenient place in your project and include it.
 
 auto dimmed = Dimmed::create(size); // create with size
 dimmed->setDimmedColor(Color4F::BLACK); // default: (0.0, 0.0, 0.0, 0.5)
-dimmed->setSwallowTouches(false); // default: true
-dimmed->addDimmedTouchEvent([](Dimmed* self, const Vec2& p){ 
-    self->removeFromParent(); 
-});
 addChild(dimmed, zorder); // zorder: touch priority
 ~~~
 
