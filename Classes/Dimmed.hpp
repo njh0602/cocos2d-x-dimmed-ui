@@ -227,6 +227,6 @@ private:
     
     std::vector<cocos2d::Rect> _stencilRects;
     cocos2d::Color4F _dimmedColor = cocos2d::Color4F(0.0f, 0.0f, 0.0f, 0.5f);
-    std::function<void(Dimmed*, const cocos2d::Vec2&)> _onDimmedTouchCallback = [](Dimmed*, cocos2d::Vec2){};
+    std::function<void(Dimmed*, const cocos2d::Vec2&)> _onDimmedTouchCallback = [](Dimmed*, const cocos2d::Vec2&){};
     
 };
