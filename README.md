@@ -30,7 +30,6 @@ See the `TestScene.cpp` for more example.
 
 ![https://github.com/njh0602/cocos2d-x-dimmed-ui](showcase1.gif)
 ![https://github.com/njh0602/cocos2d-x-dimmed-ui](showcase2.gif)
-![https://github.com/njh0602/cocos2d-x-dimmed-ui](showcase3.gif)
 
 
 
