@@ -26,8 +26,8 @@ addChild(dimmed, zorder); // zorder: touch priority
 
 See the `TestScene.cpp` for more example.
 
-![](https://github.com/njh0602/cocos2d-x-dimmed-ui/blob/master/showcase2.png)
 ![https://github.com/njh0602/cocos2d-x-dimmed-ui](showcase1.gif)
+![https://github.com/njh0602/cocos2d-x-dimmed-ui](showcase2.gif)
 
 
 
